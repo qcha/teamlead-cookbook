@@ -1,4 +1,4 @@
-# Teamlead pros and cons
+# Teamlead: Pros and Cons
 
 ## Введение
 
