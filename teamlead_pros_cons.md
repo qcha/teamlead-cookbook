@@ -289,9 +289,10 @@
 1. [Теперь я - тимлид, но почему мне так плохо? Практические советы / Евгений Кот (Wrike)](https://www.youtube.com/watch?v=7fnY8WVtElY)
 2. [Habr. 7 причин не становиться тимлидом](https://habr.com/ru/companies/karuna/articles/681822/)
 3. [Habr. Не нужно становиться тимлидом](https://habr.com/ru/articles/860792/)
-4. [Habr. Нужны ли тимлиды?](https://habr.com/ru/articles/699974/)
-5. [Habr. Неочевидные минусы позиции тимлида](https://habr.com/ru/articles/793504/)
-6. [Hexlet. Ответственность за команду, много созвонов и мало кода: всем ли надо быть тимлидами?](https://ru.hexlet.io/blog/posts/vsem-li-nado-byt-timlidami)
+4. [Гайд начинающего тимлида](https://habr.com/ru/articles/559394/)
+5. [Habr. Нужны ли тимлиды?](https://habr.com/ru/articles/699974/)
+6. [Habr. Неочевидные минусы позиции тимлида](https://habr.com/ru/articles/793504/)
+7. [Hexlet. Ответственность за команду, много созвонов и мало кода: всем ли надо быть тимлидами?](https://ru.hexlet.io/blog/posts/vsem-li-nado-byt-timlidami)
 
 ## Отдельные благодарности
 
